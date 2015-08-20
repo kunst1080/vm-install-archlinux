@@ -1,0 +1,7 @@
+template
+
+# user setting file
+config.user.bat
+
+# install image
+*.iso

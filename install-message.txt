@@ -1,0 +1,7 @@
+Please type bellow.
+==========
+
+loadkeys jp106
+curl 192.168.194.1:8080 | sh
+
+==========
